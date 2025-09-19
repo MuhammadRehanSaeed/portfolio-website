@@ -9,7 +9,7 @@ TypeScript – Strongly typed JavaScript for maintainability and scalability
 
 CSS
 
-Deployed on: Vercel / Netlify / GitHub Pages (adjust to your deployment platform)
+Deployed on: Vercel / Netlify / GitHub Pages 
 
 🚀 Features
 
