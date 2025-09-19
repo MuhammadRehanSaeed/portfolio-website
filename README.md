@@ -1,37 +1,24 @@
+🌐 Portfolio Website
+📌 Overview
 
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+This is my personal portfolio website built with TypeScript. It serves as a digital space to showcase my skills, projects, and professional experience. The site is designed with clean code, scalability, and modern web development practices in mind.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+⚙️ Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+TypeScript – Strongly typed JavaScript for maintainability and scalability
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+CSS
 
-**Edit a file directly in GitHub**
+Deployed on: Vercel / Netlify / GitHub Pages (adjust to your deployment platform)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🚀 Features
 
-**Use GitHub Codespaces**
+✨ Personalized portfolio to showcase skills, projects, and achievements
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📂 Project section with descriptions and links to GitHub repos or live demos
 
-## What technologies are used for this project?
+📄 About section highlighting background and expertise
 
-This project is built with:
+📞 Contact section for easy communication
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+⚡ Fast and responsive design for all devices
